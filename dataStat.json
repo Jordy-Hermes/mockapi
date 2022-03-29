@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "melHive001",
+    "temperature": {
+                     "external": [15, 12, 10, 9, 8, 14, 18] ,
+                     "internal": [10, 11, 13, 14, 16, 11,9]                      
+    },
+    "humidity": {
+                     "external": [20,22,24,25,18,16,10],
+                     "internal": [15,13,15,18,20,22,16]
+    },
+    "weight": [4.5,4.5,4.5,4.5,4.5,5,5],
+    "pressure": [944,942,940,944,948,950,952]
+  },
+  {
+    "id": 2,
+    "name": "melHive002",
+    "temperature": {
+                     "external": [18],
+                     "internal": [10]
+    },
+    "humidity": {
+                     "external": [10],
+                     "internal":[5]
+    },
+    "weight": [3],
+    "pressure": [941]
+  },
+  {
+    "id": 3,
+    "name": "melHive003",
+    "temperature": {
+                     "external": [27],
+                     "internal":[28]
+    },
+    "humidity": {
+                     "external": [12],
+                     "internal":[5]
+    },
+    "weight": [5.5],
+    "pressure": [950]
+  },
+  {
+    "id": 4,
+    "name": "melHive004",
+    "temperature": {
+                     "external": [15],
+                     "internal":[18]
+    },
+    "humidity": {
+                     "external": [6],
+                     "internal":[3]
+    },
+    "weight": [7],
+    "pressure": [955] 
+  },
+  {
+    "id": 5,
+    "name": "melHive005",
+    "temperature": {
+                     "external": [13],
+                     "internal":[7]
+    },
+    "humidity": {
+                     "external":[14] ,
+                     "internal":[7]
+    },
+    "weight": [3.5],
+    "pressure": [945] 
+  },
+  {
+    "id": 6,
+    "name": "melHive006",
+    "temperature": {
+                     "external": [20],
+                     "internal":[17]
+    },
+    "humidity": {
+                     "external": [14],
+                     "internal":[5]
+    },
+    "weight": [7],
+    "pressure": [940] 
+  }
+]
